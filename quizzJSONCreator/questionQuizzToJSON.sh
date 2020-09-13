@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Get informations
 echo "Question : " 
 read question
 echo "Réponse 1 : "
